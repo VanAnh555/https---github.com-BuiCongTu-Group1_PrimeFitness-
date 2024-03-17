@@ -1,0 +1,16 @@
+.nav-header {
+  color: #e6df44;
+  display: flex;
+  width: auto;
+  height: auto;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  position: relative;
+  top: 200;
+  left: 200;
+  font-family: "oswald", oswald, sans-serif;
+  background: bisque;
+}
